@@ -1,0 +1,15 @@
+C:\Users\harsh jangid\Desktop\.Net\GuessNum\bin\Debug\net6.0\GuessNum.exe
+C:\Users\harsh jangid\Desktop\.Net\GuessNum\bin\Debug\net6.0\GuessNum.deps.json
+C:\Users\harsh jangid\Desktop\.Net\GuessNum\bin\Debug\net6.0\GuessNum.runtimeconfig.json
+C:\Users\harsh jangid\Desktop\.Net\GuessNum\bin\Debug\net6.0\GuessNum.dll
+C:\Users\harsh jangid\Desktop\.Net\GuessNum\bin\Debug\net6.0\ref\GuessNum.dll
+C:\Users\harsh jangid\Desktop\.Net\GuessNum\bin\Debug\net6.0\GuessNum.pdb
+C:\Users\harsh jangid\Desktop\.Net\GuessNum\obj\Debug\net6.0\GuessNum.csproj.AssemblyReference.cache
+C:\Users\harsh jangid\Desktop\.Net\GuessNum\obj\Debug\net6.0\GuessNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh jangid\Desktop\.Net\GuessNum\obj\Debug\net6.0\GuessNum.AssemblyInfoInputs.cache
+C:\Users\harsh jangid\Desktop\.Net\GuessNum\obj\Debug\net6.0\GuessNum.AssemblyInfo.cs
+C:\Users\harsh jangid\Desktop\.Net\GuessNum\obj\Debug\net6.0\GuessNum.csproj.CoreCompileInputs.cache
+C:\Users\harsh jangid\Desktop\.Net\GuessNum\obj\Debug\net6.0\GuessNum.dll
+C:\Users\harsh jangid\Desktop\.Net\GuessNum\obj\Debug\net6.0\ref\GuessNum.dll
+C:\Users\harsh jangid\Desktop\.Net\GuessNum\obj\Debug\net6.0\GuessNum.pdb
+C:\Users\harsh jangid\Desktop\.Net\GuessNum\obj\Debug\net6.0\GuessNum.genruntimeconfig.cache
